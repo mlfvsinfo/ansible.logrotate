@@ -3,6 +3,11 @@
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 and [human-readable changelog](https://keepachangelog.com/en/1.0.0/).
 
+## feature/selinux-directories
+
+### Added
+- setting to add var_log_t SELinux context to logging directories
+
 ## 1.5.2
 
 ### Fixed
